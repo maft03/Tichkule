@@ -1,6 +1,12 @@
 hi 
 hello
 hru
+<<<<<<< HEAD
 ddd
 ee
 ff
+=======
+aaa
+bbb
+ccc
+>>>>>>> 4fbdb522e5832b3d7d3a09ae5acfd31cecd0ec3c
